@@ -1,0 +1,14 @@
+{
+  "name": "classes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "handlebars": "^4.7.7",
+    "inline-css": "^4.0.1",
+    "juice": "^8.0.0",
+    "nodemailer": "^6.7.7",
+    "nodemailer-express-handlebars": "^5.0.0"
+  }
+}
